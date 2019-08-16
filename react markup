@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>React – A JavaScript library for building user interfaces</title>
+    <link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/f/fb/Schematicky_atom.png">
+</head>
+<body>
+<header>
+    <div class="icon">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Schematicky_atom.png" alt height="20">
+    </div>
+    <div class="site-name">React</div>
+    <nav class="navigation">
+        <a class="nav1" href=" ">Docs</a>
+        <a class="nav2" href=" ">Tutorial</a>
+        <a class="nav3" href=" ">Blog</a>
+        <a class="nav4" href=" ">Community</a>
+        <a class="Git" href="https://github.com/supremeboiroum">GIT</a>
+    </nav>
+    <form>
+        <label>
+            <input type="search" name="q" placeholder="Search">
+        </label>
+    </form>
+</header>
+<div>
+    <h1 class="First Name">React</h1>
+    <p>A JavaScript library for building user interfaces</p>
+    <div>
+        <div>
+            <a href="">Get Started</a>
+        </div>
+        <div>
+            <a href="">Take a tutorial ></a>
+        </div>
+    </div>
+</div>
+<div>
+    <h3>Declarative</h3>
+    <p>React makes it painless to create interactive UIs.
+        Design simple views for each state in your application,
+        and React will efficiently update and render just the right components when your data changes.
+        Declarative views make your code more predictable and easier to debug.</p>
+</div>
+<div>
+    <h3>Component-Based</h3>
+    <p>Build encapsulated components that manage their own state, then compose them to make complex UIs.
+        Since component logic is written in JavaScript instead of templates,
+        you can easily pass rich data through your app and keep state out of the DOM.
+
+    </p>
+</div>
+<div>
+    <h3>Learn Once, Write Anywhere</h3>
+    <p>We don’t make assumptions about the rest of your technology stack,
+        so you can develop new features in React without rewriting existing code.
+        React can also render on the server using Node and power mobile apps using <a href="">React Native</a>
+    </p>
+</div>
+<footer>
+    <div>
+        <a href="">Get Started</a>
+        <a href="">Take a tutorial ></a>
+    </div>
+    <div>
+        <div class="Documents">Docs</div>
+        <a class="1" href="">Installation</a>
+        <a class="2" href="">Main Concepts</a>
+        <a class="3" href="">Advanced Guides</a>
+        <a class="4" href="">API Reference</a>
+        <a class="5" href="">Hooks (New)</a>
+        <a class="6" href="">Testing</a>
+        <a class="7" href="">Contributing</a>
+        <a class="8" href="">FAQ</a>
+    </div>
+    <div>
+        <div class="Documents">Channels</div>
+        <a class="1" href="">GitHub</a>
+        <a class="2" href="">Stack Overflow</a>
+        <a class="3" href="">Discussion Forums</a>
+        <a class="4" href="">Reactiflux Chat</a>
+        <a class="5" href="">DEV Community</a>
+        <a class="6" href="">Testing</a>
+        <a class="7" href="">Facebook</a>
+        <a class="8" href="">Twitter</a>
+    </div>
+    <div>
+        <div class="Documents">Community</div>
+        <a class="1" href="">Community Resources</a>
+        <a class="2" href="">Tools</a>
+    </div>
+    <div>
+        <div class="Documents">More</div>
+        <a class="1" href="">Tutorial</a>
+        <a class="2" href="">Blog</a>
+        <a class="3" href="">Acknowledgements</a>
+        <a class="4" href="">React Native</a>
+    </div>
+    <p>Copyright © 2019 Facebook Inc.</p>
+</footer>
+</body>
+</html>
